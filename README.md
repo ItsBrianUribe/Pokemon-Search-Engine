@@ -4,9 +4,9 @@ Created the web application with React js and implemented the abiliaty to call o
 
 ## Technologies Used
 - HTML/CSS/JS
-- React js
-- PokeAPI
-- Axios
+- [React](https://react.dev/)
+- [PokeAPI](https://pokeapi.co/)
+- [Axios](https://axios-http.com/)
 
 ## Screenshots
 ### Overall Application
