@@ -7,3 +7,5 @@ Created the web application with React js and implemented the abiliaty to call o
 - React js
 - PokeAPI
 - Axios
+
+### Application in Action
